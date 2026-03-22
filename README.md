@@ -1,19 +1,8 @@
-# 📰 NewsApp: Your Go-To News Source
+# NewsApp
 
-![NewsApp](https://github.com/Subbo12/NewsApp/raw/refs/heads/master/app/src/main/res/mipmap-hdpi/News_App_3.9.zip%20Jetpack%20Compose-brightgreen)
 
-Welcome to **NewsApp**, a simple yet powerful Android application built with Kotlin, Jetpack Compose, Dagger Hilt, and Retrofit. This app provides a seamless way to access the latest news from various sources, leveraging modern Android development practices and architectures. 
+**NewsApp**, a simple yet powerful Android application built with Kotlin, Jetpack Compose, Dagger Hilt, and Retrofit. This app provides a seamless way to access the latest news from various sources, leveraging modern Android development practices and architectures. 
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Releases](#releases)
 
 ## Features
 
@@ -33,56 +22,10 @@ This project utilizes several key technologies:
 - **Retrofit**: A type-safe HTTP client for Android and Java.
 - **MVVM Architecture**: A design pattern that separates UI and business logic.
 
-## Installation
+## Screenshots
+<img width="1920" height="1080" alt="Screenshot 2026-03-22 181534" src="https://github.com/user-attachments/assets/16e27c44-735d-4187-a174-ce2b5a953d31" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-22 181640" src="https://github.com/user-attachments/assets/0ad4eee6-ba35-4851-bc1c-7787473bb353" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-22 181704" src="https://github.com/user-attachments/assets/cbeaebc1-e169-43d0-8c4e-ba168119d77f" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-22 181728" src="https://github.com/user-attachments/assets/14f75c1b-6771-4ecc-9eb2-4494f02fc0c6" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-22 181618" src="https://github.com/user-attachments/assets/074ff009-7b3b-4fa6-bed4-5580f22f2c9e" />
 
-To get started with the NewsApp, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Subbo12/NewsApp/raw/refs/heads/master/app/src/main/res/mipmap-hdpi/News_App_3.9.zip
-   ```
-
-2. Open the project in Android Studio.
-
-3. Sync the project with Gradle files.
-
-4. Build and run the app on your Android device or emulator.
-
-## Usage
-
-After installation, you can easily navigate through the app. The main screen displays the latest news articles. You can tap on any article to read it in detail. Use the search bar to find specific topics or articles. 
-
-## Contributing
-
-We welcome contributions! If you want to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature/YourFeature`).
-6. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or feedback, please reach out to:
-
-- **Email**: https://github.com/Subbo12/NewsApp/raw/refs/heads/master/app/src/main/res/mipmap-hdpi/News_App_3.9.zip
-- **GitHub**: [Subbo12](https://github.com/Subbo12/NewsApp/raw/refs/heads/master/app/src/main/res/mipmap-hdpi/News_App_3.9.zip)
-
-## Releases
-
-You can find the latest releases of the NewsApp [here](https://github.com/Subbo12/NewsApp/raw/refs/heads/master/app/src/main/res/mipmap-hdpi/News_App_3.9.zip). Please download the necessary files and execute them to get the latest features and fixes.
-
-![Releases](https://github.com/Subbo12/NewsApp/raw/refs/heads/master/app/src/main/res/mipmap-hdpi/News_App_3.9.zip)
-
-## Conclusion
-
-Thank you for checking out NewsApp! We hope you find it useful for staying updated with the latest news. Your feedback is invaluable, and we look forward to your contributions.
-
-Feel free to explore the code, suggest improvements, or report issues. Happy coding!
